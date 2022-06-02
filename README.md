@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/debpu06/debpu06/master/wave.gif" width="30px"> Hi there, I'm David
+# <img src="https://raw.githubusercontent.com/debpu06/debpu06/master/wave.gif" height="30px"> Hi there, I'm David
 
 - 🏢 I work at [Nansen](https://nansen.com/) in Chicago as a Technical Lead
 - 🔭 I’m currently working on rebuilding an [old app](https://picwords.app), and working some friends on a new one coming soon!
